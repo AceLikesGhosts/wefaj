@@ -7,7 +7,6 @@ JavaScript projects.
 
 ## Todo:
 ✔ [Stateful](https://github.com/zachMitchell/lemonBot/tree/master/stateful) <br>
-✔ [Bot-Cooldown](https://github.com/zachMitchell/bot-cooldown) <br>
-- `Bot Cooldown` actually has the declaration file merged into it! 
+✔ [Bot-Cooldown](https://github.com/zachMitchell/bot-cooldown) (Merged into repo!) <br>
 ❌ [LemonBot](https://github.com/zachMitchell/lemonbot) <br>
 ❌ [LemonBot Modules](https://github.com/zachMitchell/lemonBot/tree/master/lemonModules)
