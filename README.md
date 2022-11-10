@@ -6,8 +6,8 @@ The goal of `wefaj` is to *(badly)* provide TypeScript type documentation for [Z
 JavaScript projects. 
 
 ## Todo:
-✔ [Stateful](https://github.com/zachMitchell/lemonBot/tree/master/stateful)
-✔ [Bot-Cooldown](https://github.com/zachMitchell/bot-cooldown)
-- `Bot Cooldown` actually has the declaration file merged into it!
-❌ [LemonBot](https://github.com/zachMitchell/lemonbot)
+✔ [Stateful](https://github.com/zachMitchell/lemonBot/tree/master/stateful) <br>
+✔ [Bot-Cooldown](https://github.com/zachMitchell/bot-cooldown) <br>
+- `Bot Cooldown` actually has the declaration file merged into it! <br>
+❌ [LemonBot](https://github.com/zachMitchell/lemonbot) <br>
 ❌ [LemonBot Modules](https://github.com/zachMitchell/lemonBot/tree/master/lemonModules)
