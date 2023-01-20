@@ -1,3 +1,6 @@
+> **Another dead project that I gave up on. Please ignore this, it won't be updated.**
+
+
 # wefaj
 - wefaj.. keyboard spam.
 
